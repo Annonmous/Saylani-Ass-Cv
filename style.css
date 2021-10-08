@@ -1,0 +1,35 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+}
+.img
+{
+    width: 180px;
+    border-radius: 100%;
+   
+    border:5px solid black
+}
+
+.header
+{
+    background-color: rgb(29, 179, 230);
+}
+.header-inner
+{
+    background-color: rgb(4, 75, 99);
+}
+
+.skillPara
+{
+    background-color: rgb(29, 179, 230);
+    border-radius: 10px;
+    color: white;
+}
+
+.interest-list
+{
+    border-radius: 20px;
+    border: 2px solid black;
+    width: 150px;
+}
